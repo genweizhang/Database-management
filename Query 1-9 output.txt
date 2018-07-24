@@ -1,0 +1,793 @@
+Query 1 result:
+
+NAME_OF_DOCTOR       PHONE_OF_DOCTOR     
+-------------------- --------------------
+Thomas               405-1234567         
+Thomas               405-1234567         
+Thomas               405-1234567         
+Thomas               405-1234567         
+       SSN EXPENSE_NAME                   EXPENSE_D EXPENSE_AMOUNT EXPENSE_DESCRIPTION                                                                                                                                                                                     
+---------- ------------------------------ --------- -------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 222222224 food fee                       30-OCT-17             15 group lunch food fee                                                                                                                                                                                    
+ 222222224 food fee                       30-OCT-17             15 group lunch food fee                                                                                                                                                                                    
+ 222222224 food fee                       30-OCT-17             15 group lunch food fee                                                                                                                                                                                    
+ 222222224 food fee                       30-OCT-17             15 group lunch food fee                                                                                                                                                                                    
+ 222222223 food fee                       20-OCT-17             40 group lunch food fee                                                                                                                                                                                    
+ 222222223 food fee                       20-OCT-17             40 group lunch food fee                                                                                                                                                                                    
+ 222222223 food fee                       20-OCT-17             40 group lunch food fee                                                                                                                                                                                    
+ 222222223 food fee                       20-OCT-17             40 group lunch food fee                                                                                                                                                                                    
+ 222222222 food fee                       10-OCT-17             50 group lunch food fee                                                                                                                                                                                    
+ 222222222 food fee                       10-OCT-17             50 group lunch food fee                                                                                                                                                                                    
+ 222222222 food fee                       10-OCT-17             50 group lunch food fee                                                                                                                                                                                    
+ 222222222 food fee                       10-OCT-17             50 group lunch food fee                                                                                                                                                                                    
+       SSN VNAME                BIRTH_DAT RACE                 GENDER               PROFESSION                     MAILING_ADDRESS                                    EMAIL_ADDRESS                  HOME_CELL_PHONE      WORK_CELL_PHONE      EXISTENCE_ON_LIST    DATE_JOIN DATE_OF_T LOC_OF_TRAINING_COUR
+---------- -------------------- --------- -------------------- -------------------- ------------------------------ -------------------------------------------------- ------------------------------ -------------------- -------------------- -------------------- --------- --------- --------------------
+ 121212121 John                 12-DEC-85 American             male                 student                        111 Asp Ave, Norman                                john@ou.edu                    405-7878787          405-6767676          on list              11-JAN-17 01-MAY-17 Moore               
+ 121212123 Donald               12-FEB-86 American             male                 student                        1111 Asp Ave, Norman                               donald@ou.edu                  405-2878787          405-4767676          on list              11-JAN-17 01-MAY-16 Moore               
+ 121212124 Kegan                12-DEC-95 American             male                 student                        1112 Asp Ave, Norman                               kegan@ou.edu                   405-3878787          405-3767676          on list              10-JAN-17 01-MAY-16 Moore               
+ 121212125 Megan                01-DEC-65 American             female               professor                      1113 Asp Ave, Norman                               megan@ou.edu                   405-4878787          405-2767676          on list              01-JAN-07 01-MAY-05 OKC                 
+ 121212121 John                 12-DEC-85 American             male                 student                        111 Asp Ave, Norman                                john@ou.edu                    405-7878787          405-6767676          on list              11-JAN-17 01-MAY-17 Moore               
+ 121212123 Donald               12-FEB-86 American             male                 student                        1111 Asp Ave, Norman                               donald@ou.edu                  405-2878787          405-4767676          on list              11-JAN-17 01-MAY-16 Moore               
+ 121212124 Kegan                12-DEC-95 American             male                 student                        1112 Asp Ave, Norman                               kegan@ou.edu                   405-3878787          405-3767676          on list              10-JAN-17 01-MAY-16 Moore               
+ 121212125 Megan                01-DEC-65 American             female               professor                      1113 Asp Ave, Norman                               megan@ou.edu                   405-4878787          405-2767676          on list              01-JAN-07 01-MAY-05 OKC                 
+ 121212121 John                 12-DEC-85 American             male                 student                        111 Asp Ave, Norman                                john@ou.edu                    405-7878787          405-6767676          on list              11-JAN-17 01-MAY-17 Moore               
+ 121212123 Donald               12-FEB-86 American             male                 student                        1111 Asp Ave, Norman                               donald@ou.edu                  405-2878787          405-4767676          on list              11-JAN-17 01-MAY-16 Moore               
+ 121212124 Kegan                12-DEC-95 American             male                 student                        1112 Asp Ave, Norman                               kegan@ou.edu                   405-3878787          405-3767676          on list              10-JAN-17 01-MAY-16 Moore               
+ 121212125 Megan                01-DEC-65 American             female               professor                      1113 Asp Ave, Norman                               megan@ou.edu                   405-4878787          405-2767676          on list              01-JAN-07 01-MAY-05 OKC                 
+ 121212121 John                 12-DEC-85 American             male                 student                        111 Asp Ave, Norman                                john@ou.edu                    405-7878787          405-6767676          on list              11-JAN-17 01-MAY-17 Moore               
+ 121212123 Donald               12-FEB-86 American             male                 student                        1111 Asp Ave, Norman                               donald@ou.edu                  405-2878787          405-4767676          on list              11-JAN-17 01-MAY-16 Moore               
+ 121212124 Kegan                12-DEC-95 American             male                 student                        1112 Asp Ave, Norman                               kegan@ou.edu                   405-3878787          405-3767676          on list              10-JAN-17 01-MAY-16 Moore               
+ 121212125 Megan                01-DEC-65 American             female               professor                      1113 Asp Ave, Norman                               megan@ou.edu                   405-4878787          405-2767676          on list              01-JAN-07 01-MAY-05 OKC                 
+       SSN CNAME                BIRTH_DAT RACE                 GENDER               PROFESSION                     MAILING_ADDRESS                                    EMAIL_ADDRESS                                      HOME_CELL_PHONE      WORK_CELL_PHONE      EXISTENCE_ON_LIST    NAME_OF_DOCTOR       PHONE_OF_DOCTOR      NAME_OF_ATTORNEY     PHONE_OF_ATTORNEY    DATE_ASSI
+---------- -------------------- --------- -------------------- -------------------- ------------------------------ -------------------------------------------------- -------------------------------------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- ---------
+ 123456789 Jack                 01-JAN-80 European             male                 teacher                        101 Asp Ave, Norman                                jack@ou.edu                                        405-8888888          405-6666666          on list              Thomas               405-1234567          Kim                  918-1234567          01-JAN-17
+ 123456789 Jack                 01-JAN-80 European             male                 teacher                        101 Asp Ave, Norman                                jack@ou.edu                                        405-8888888          405-6666666          on list              Thomas               405-1234567          Kim                  918-1234567          01-JAN-17
+ 123456789 Jack                 01-JAN-80 European             male                 teacher                        101 Asp Ave, Norman                                jack@ou.edu                                        405-8888888          405-6666666          on list              Thomas               405-1234567          Kim                  918-1234567          01-JAN-17
+ 123456789 Jack                 01-JAN-80 European             male                 teacher                        101 Asp Ave, Norman                                jack@ou.edu                                        405-8888888          405-6666666          on list              Thomas               405-1234567          Kim                  918-1234567          01-JAN-17
+ 100000009 Vardhan              01-JAN-92 Indian               male                 student                        010 Asp Ave, Norman                                Vardhan@ou.edu                                     405-8866888          405-8866666          on list              Thema                405-1224567          Kimy                 918-2234567          01-FEB-17
+DNAME                DONATION_AMOUNT ANONYMOUS_WISH      
+-------------------- --------------- --------------------
+Lee                            30000 No                  
+Lee                            30000 No                  
+Lee                            30000 No                  
+Lee                            30000 No                  
+Zhang                          50000 Yes                 
+Zhang                          50000 Yes                 
+Zhang                          50000 Yes                 
+Zhang                          50000 Yes                 
+Query 1 result:
+
+
+PL/SQL procedure successfully completed.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Error starting at line : 35 in command -
+insert into cares_for (tname, SSN) values ((select tname from team where tname='Better-life'), 
+                                            (select SSN from client where cname='Jack'))
+Error report -
+ORA-01427: single-row subquery returns more than one row
+
+
+1 row inserted.
+
+
+Error starting at line : 47 in command -
+insert into cares_for (tname, SSN) values ((select tname from team where tname='Better-life'), 
+                                            (select SSN from client where cname='Vardhan'))
+Error report -
+ORA-01427: single-row subquery returns more than one row
+
+
+Error starting at line : 51 in command -
+insert into cares_for (tname, SSN) values ((select tname from team where tname='Faster and faster'), 
+                                            (select SSN from client where cname='Jack'))
+Error report -
+ORA-01427: single-row subquery returns more than one row
+
+
+Error starting at line : 55 in command -
+insert into client_insurance (SSN,policy_ID,provider_ID,provider_address,intype) values
+                              ((select SSN from client where cname='Jack'),'1-23456789','#1234','lincoln street','lifelong')
+Error report -
+ORA-01427: single-row subquery returns more than one row
+
+
+Error starting at line : 58 in command -
+insert into client_needs  (SSN,visiting ,shopping,housekeeping,transportation,yard_work ,food, 
+                           importance_visiting,importance_shopping,importance_housekeeping ,
+                           importance_transportation ,importance_year_work ,importance_food)
+                           values
+                           ((select SSN from client where cname='Jack'),'','','','','','','2','3','4','4','5','10')
+Error report -
+ORA-01427: single-row subquery returns more than one row
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Error starting at line : 78 in command -
+insert into contains (tname, SSN, hours_worked) values ((select tname from team where tname='Better-life'),
+                                                        (select SSN from volunteer where vname='John'),100)
+Error report -
+ORA-01427: single-row subquery returns more than one row
+
+
+4 rows inserted.
+
+
+Error starting at line : 105 in command -
+insert all
+into contains (tname, SSN, hours_worked) values ((select tname from team where tname='Thriving'),
+                                                        (select SSN from volunteer where vname='Jim'),10)
+into contains (tname, SSN, hours_worked) values ((select tname from team where tname='Faster and faster'),
+                                                        (select SSN from volunteer where vname='Donald'),20)
+into contains (tname, SSN, hours_worked) values ((select tname from team where tname='Faster and faster'),
+                                                        (select SSN from volunteer where vname='Kegan'),5)
+into contains (tname, SSN, hours_worked) values ((select tname from team where tname='Faster and faster'),
+                                                        (select SSN from volunteer where vname='Megan'),1000)
+select * from dual
+Error report -
+ORA-01427: single-row subquery returns more than one row
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Error starting at line : 133 in command -
+insert into report (tname, SSN, report_date, report_content) 
+                    values ('Better-life',(select SSN from employee where ename='Jang'),'05-Oct-2017','xxxxxx')
+Error report -
+ORA-01427: single-row subquery returns more than one row
+
+
+5 rows inserted.
+
+
+Error starting at line : 165 in command -
+insert all
+into report (tname, SSN, report_date, report_content) 
+                    values ('Thriving',(select SSN from employee where ename='Jang'),'06-Oct-2017','xxxxxx')
+into report (tname, SSN, report_date, report_content) 
+                    values ('Faster and faster',(select SSN from employee where ename='Lee'),'06-Oct-2017','xxxxxx')
+select * from dual
+Error report -
+ORA-01427: single-row subquery returns more than one row
+
+
+1 row inserted.
+
+
+4 rows inserted.
+
+
+1 row inserted.
+
+
+Error starting at line : 196 in command -
+insert into sponsor (tname, oname) values ('Better-life', (select oname from organization_donation where
+                                            oname='Green environment Inc'))
+Error report -
+ORA-01427: single-row subquery returns more than one row
+
+
+1 row inserted.
+
+
+Error starting at line : 203 in command -
+insert into sponsor (tname, oname) values ('Faster and faster', (select oname from organization_donation where
+                                            oname='ABA Inc'))
+Error report -
+ORA-01427: single-row subquery returns more than one row
+
+
+1 row inserted.
+
+
+2 rows inserted.
+
+
+Error starting at line : 229 in command -
+insert all 
+into donate_check (SSN, check_number) values ((select SSN from donor where dname='Angela'), 719785462)
+into donate_check (SSN, check_number) values ((select SSN from donor where dname='Angela'), 719785463)
+into donate_card (SSN, card_number, card_type, card_exp_date) values ((select SSN from donor where dname='Angela'),
+                                                                    1111222233334444, 'VISA','31-Dec-2022')
+select * from dual
+Error report -
+ORA-01427: single-row subquery returns more than one row
+
+
+3 rows inserted.
+
+NAME_OF_DOCTOR       PHONE_OF_DOCTOR     
+-------------------- --------------------
+Thomas               405-1234567         
+Thomas               405-1234567         
+Thomas               405-1234567         
+Thomas               405-1234567         
+Thomas               405-1234567         
+
+5 rows selected. 
+
+       SSN EXPENSE_NAME                   EXPENSE_D EXPENSE_AMOUNT EXPENSE_DESCRIPTION                                                                                                                                                                                     
+---------- ------------------------------ --------- -------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 222222224 food fee                       30-OCT-17             15 group lunch food fee                                                                                                                                                                                    
+ 222222224 food fee                       30-OCT-17             15 group lunch food fee                                                                                                                                                                                    
+ 222222224 food fee                       30-OCT-17             15 group lunch food fee                                                                                                                                                                                    
+ 222222224 food fee                       30-OCT-17             15 group lunch food fee                                                                                                                                                                                    
+ 222222224 food fee                       30-OCT-17             15 group lunch food fee                                                                                                                                                                                    
+ 222222223 food fee                       20-OCT-17             40 group lunch food fee                                                                                                                                                                                    
+ 222222223 food fee                       20-OCT-17             40 group lunch food fee                                                                                                                                                                                    
+ 222222223 food fee                       20-OCT-17             40 group lunch food fee                                                                                                                                                                                    
+ 222222223 food fee                       20-OCT-17             40 group lunch food fee                                                                                                                                                                                    
+ 222222223 food fee                       20-OCT-17             40 group lunch food fee                                                                                                                                                                                    
+ 222222222 food fee                       10-OCT-17             50 group lunch food fee                                                                                                                                                                                    
+ 222222222 food fee                       10-OCT-17             50 group lunch food fee                                                                                                                                                                                    
+ 222222222 food fee                       10-OCT-17             50 group lunch food fee                                                                                                                                                                                    
+ 222222222 food fee                       10-OCT-17             50 group lunch food fee                                                                                                                                                                                    
+ 222222222 food fee                       10-OCT-17             50 group lunch food fee                                                                                                                                                                                    
+
+15 rows selected. 
+
+       SSN VNAME                BIRTH_DAT RACE                 GENDER               PROFESSION                     MAILING_ADDRESS                                    EMAIL_ADDRESS                  HOME_CELL_PHONE      WORK_CELL_PHONE      EXISTENCE_ON_LIST    DATE_JOIN DATE_OF_T LOC_OF_TRAINING_COUR
+---------- -------------------- --------- -------------------- -------------------- ------------------------------ -------------------------------------------------- ------------------------------ -------------------- -------------------- -------------------- --------- --------- --------------------
+ 121212121 John                 12-DEC-85 American             male                 student                        111 Asp Ave, Norman                                john@ou.edu                    405-7878787          405-6767676          on list              11-JAN-17 01-MAY-17 Moore               
+ 121212123 Donald               12-FEB-86 American             male                 student                        1111 Asp Ave, Norman                               donald@ou.edu                  405-2878787          405-4767676          on list              11-JAN-17 01-MAY-16 Moore               
+ 121212124 Kegan                12-DEC-95 American             male                 student                        1112 Asp Ave, Norman                               kegan@ou.edu                   405-3878787          405-3767676          on list              10-JAN-17 01-MAY-16 Moore               
+ 121212125 Megan                01-DEC-65 American             female               professor                      1113 Asp Ave, Norman                               megan@ou.edu                   405-4878787          405-2767676          on list              01-JAN-07 01-MAY-05 OKC                 
+ 121212121 John                 12-DEC-85 American             male                 student                        111 Asp Ave, Norman                                john@ou.edu                    405-7878787          405-6767676          on list              11-JAN-17 01-MAY-17 Moore               
+ 121212123 Donald               12-FEB-86 American             male                 student                        1111 Asp Ave, Norman                               donald@ou.edu                  405-2878787          405-4767676          on list              11-JAN-17 01-MAY-16 Moore               
+ 121212124 Kegan                12-DEC-95 American             male                 student                        1112 Asp Ave, Norman                               kegan@ou.edu                   405-3878787          405-3767676          on list              10-JAN-17 01-MAY-16 Moore               
+ 121212125 Megan                01-DEC-65 American             female               professor                      1113 Asp Ave, Norman                               megan@ou.edu                   405-4878787          405-2767676          on list              01-JAN-07 01-MAY-05 OKC                 
+ 121212121 John                 12-DEC-85 American             male                 student                        111 Asp Ave, Norman                                john@ou.edu                    405-7878787          405-6767676          on list              11-JAN-17 01-MAY-17 Moore               
+ 121212123 Donald               12-FEB-86 American             male                 student                        1111 Asp Ave, Norman                               donald@ou.edu                  405-2878787          405-4767676          on list              11-JAN-17 01-MAY-16 Moore               
+ 121212124 Kegan                12-DEC-95 American             male                 student                        1112 Asp Ave, Norman                               kegan@ou.edu                   405-3878787          405-3767676          on list              10-JAN-17 01-MAY-16 Moore               
+ 121212125 Megan                01-DEC-65 American             female               professor                      1113 Asp Ave, Norman                               megan@ou.edu                   405-4878787          405-2767676          on list              01-JAN-07 01-MAY-05 OKC                 
+ 121212121 John                 12-DEC-85 American             male                 student                        111 Asp Ave, Norman                                john@ou.edu                    405-7878787          405-6767676          on list              11-JAN-17 01-MAY-17 Moore               
+ 121212123 Donald               12-FEB-86 American             male                 student                        1111 Asp Ave, Norman                               donald@ou.edu                  405-2878787          405-4767676          on list              11-JAN-17 01-MAY-16 Moore               
+ 121212124 Kegan                12-DEC-95 American             male                 student                        1112 Asp Ave, Norman                               kegan@ou.edu                   405-3878787          405-3767676          on list              10-JAN-17 01-MAY-16 Moore               
+ 121212125 Megan                01-DEC-65 American             female               professor                      1113 Asp Ave, Norman                               megan@ou.edu                   405-4878787          405-2767676          on list              01-JAN-07 01-MAY-05 OKC                 
+ 121212121 John                 12-DEC-85 American             male                 student                        111 Asp Ave, Norman                                john@ou.edu                    405-7878787          405-6767676          on list              11-JAN-17 01-MAY-17 Moore               
+ 121212123 Donald               12-FEB-86 American             male                 student                        1111 Asp Ave, Norman                               donald@ou.edu                  405-2878787          405-4767676          on list              11-JAN-17 01-MAY-16 Moore               
+ 121212124 Kegan                12-DEC-95 American             male                 student                        1112 Asp Ave, Norman                               kegan@ou.edu                   405-3878787          405-3767676          on list              10-JAN-17 01-MAY-16 Moore               
+ 121212125 Megan                01-DEC-65 American             female               professor                      1113 Asp Ave, Norman                               megan@ou.edu                   405-4878787          405-2767676          on list              01-JAN-07 01-MAY-05 OKC                 
+
+20 rows selected. 
+
+       SSN CNAME                BIRTH_DAT RACE                 GENDER               PROFESSION                     MAILING_ADDRESS                                    EMAIL_ADDRESS                                      HOME_CELL_PHONE      WORK_CELL_PHONE      EXISTENCE_ON_LIST    NAME_OF_DOCTOR       PHONE_OF_DOCTOR      NAME_OF_ATTORNEY     PHONE_OF_ATTORNEY    DATE_ASSI
+---------- -------------------- --------- -------------------- -------------------- ------------------------------ -------------------------------------------------- -------------------------------------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- ---------
+ 123456789 Jack                 01-JAN-80 European             male                 teacher                        101 Asp Ave, Norman                                jack@ou.edu                                        405-8888888          405-6666666          on list              Thomas               405-1234567          Kim                  918-1234567          01-JAN-17
+ 123456789 Jack                 01-JAN-80 European             male                 teacher                        101 Asp Ave, Norman                                jack@ou.edu                                        405-8888888          405-6666666          on list              Thomas               405-1234567          Kim                  918-1234567          01-JAN-17
+ 123456789 Jack                 01-JAN-80 European             male                 teacher                        101 Asp Ave, Norman                                jack@ou.edu                                        405-8888888          405-6666666          on list              Thomas               405-1234567          Kim                  918-1234567          01-JAN-17
+ 123456789 Jack                 01-JAN-80 European             male                 teacher                        101 Asp Ave, Norman                                jack@ou.edu                                        405-8888888          405-6666666          on list              Thomas               405-1234567          Kim                  918-1234567          01-JAN-17
+ 123456789 Jack                 01-JAN-80 European             male                 teacher                        101 Asp Ave, Norman                                jack@ou.edu                                        405-8888888          405-6666666          on list              Thomas               405-1234567          Kim                  918-1234567          01-JAN-17
+ 100000009 Vardhan              01-JAN-92 Indian               male                 student                        010 Asp Ave, Norman                                Vardhan@ou.edu                                     405-8866888          405-8866666          on list              Thema                405-1224567          Kimy                 918-2234567          01-FEB-17
+
+6 rows selected. 
+
+DNAME                DONATION_AMOUNT ANONYMOUS_WISH      
+-------------------- --------------- --------------------
+Lee                            30000 No                  
+Lee                            30000 No                  
+Lee                            30000 No                  
+Lee                            30000 No                  
+Lee                            30000 No                  
+Zhang                          50000 Yes                 
+Zhang                          50000 Yes                 
+Zhang                          50000 Yes                 
+Zhang                          50000 Yes                 
+Zhang                          50000 Yes                 
+
+10 rows selected. 
+
+
+0 rows selected. 
+
+
+5 rows updated.
+
+
+1 row deleted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Error starting at line : 23 in command -
+insert into cares_for (tname, SSN) values ((select tname from team where tname='Better-life'), 
+                                            (select SSN from client where cname='Jack'))
+Error report -
+ORA-01427: single-row subquery returns more than one row
+
+
+1 row inserted.
+
+
+Error starting at line : 35 in command -
+insert into cares_for (tname, SSN) values ((select tname from team where tname='Better-life'), 
+                                            (select SSN from client where cname='Vardhan'))
+Error report -
+ORA-01427: single-row subquery returns more than one row
+
+
+Error starting at line : 39 in command -
+insert into cares_for (tname, SSN) values ((select tname from team where tname='Faster and faster'), 
+                                            (select SSN from client where cname='Jack'))
+Error report -
+ORA-01427: single-row subquery returns more than one row
+
+
+Error starting at line : 43 in command -
+insert into client_insurance (SSN,policy_ID,provider_ID,provider_address,intype) values
+                              ((select SSN from client where cname='Jack'),'1-23456789','#1234','lincoln street','lifelong')
+Error report -
+ORA-01427: single-row subquery returns more than one row
+
+
+Error starting at line : 46 in command -
+insert into client_needs  (SSN,visiting ,shopping,housekeeping,transportation,yard_work ,food, 
+                           importance_visiting,importance_shopping,importance_housekeeping ,
+                           importance_transportation ,importance_year_work ,importance_food)
+                           values
+                           ((select SSN from client where cname='Jack'),'','','','','','','2','3','4','4','5','10')
+Error report -
+ORA-01427: single-row subquery returns more than one row
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Error starting at line : 66 in command -
+insert into contains (tname, SSN, hours_worked) values ((select tname from team where tname='Better-life'),
+                                                        (select SSN from volunteer where vname='John'),100)
+Error report -
+ORA-01427: single-row subquery returns more than one row
+
+
+4 rows inserted.
+
+
+Error starting at line : 93 in command -
+insert all
+into contains (tname, SSN, hours_worked) values ((select tname from team where tname='Thriving'),
+                                                        (select SSN from volunteer where vname='Jim'),10)
+into contains (tname, SSN, hours_worked) values ((select tname from team where tname='Faster and faster'),
+                                                        (select SSN from volunteer where vname='Donald'),20)
+into contains (tname, SSN, hours_worked) values ((select tname from team where tname='Faster and faster'),
+                                                        (select SSN from volunteer where vname='Kegan'),5)
+into contains (tname, SSN, hours_worked) values ((select tname from team where tname='Faster and faster'),
+                                                        (select SSN from volunteer where vname='Megan'),1000)
+select * from dual
+Error report -
+ORA-01427: single-row subquery returns more than one row
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Error starting at line : 121 in command -
+insert into report (tname, SSN, report_date, report_content) 
+                    values ('Better-life',(select SSN from employee where ename='Jang'),'05-Oct-2017','xxxxxx')
+Error report -
+ORA-01427: single-row subquery returns more than one row
+
+
+5 rows inserted.
+
+
+Error starting at line : 153 in command -
+insert all
+into report (tname, SSN, report_date, report_content) 
+                    values ('Thriving',(select SSN from employee where ename='Jang'),'06-Oct-2017','xxxxxx')
+into report (tname, SSN, report_date, report_content) 
+                    values ('Faster and faster',(select SSN from employee where ename='Lee'),'06-Oct-2017','xxxxxx')
+select * from dual
+Error report -
+ORA-01427: single-row subquery returns more than one row
+
+
+1 row inserted.
+
+
+4 rows inserted.
+
+
+1 row inserted.
+
+
+Error starting at line : 184 in command -
+insert into sponsor (tname, oname) values ('Better-life', (select oname from organization_donation where
+                                            oname='Green environment Inc'))
+Error report -
+ORA-01427: single-row subquery returns more than one row
+
+
+1 row inserted.
+
+
+Error starting at line : 191 in command -
+insert into sponsor (tname, oname) values ('Faster and faster', (select oname from organization_donation where
+                                            oname='ABA Inc'))
+Error report -
+ORA-01427: single-row subquery returns more than one row
+
+
+1 row inserted.
+
+
+2 rows inserted.
+
+
+Error starting at line : 217 in command -
+insert all 
+into donate_check (SSN, check_number) values ((select SSN from donor where dname='Angela'), 719785462)
+into donate_check (SSN, check_number) values ((select SSN from donor where dname='Angela'), 719785463)
+into donate_card (SSN, card_number, card_type, card_exp_date) values ((select SSN from donor where dname='Angela'),
+                                                                    1111222233334444, 'VISA','31-Dec-2022')
+select * from dual
+Error report -
+ORA-01427: single-row subquery returns more than one row
+
+
+3 rows inserted.
+
+NAME_OF_DOCTOR       PHONE_OF_DOCTOR     
+-------------------- --------------------
+Thomas               405-1234567         
+Thomas               405-1234567         
+Thomas               405-1234567         
+Thomas               405-1234567         
+Thomas               405-1234567         
+Thomas               405-1234567         
+
+6 rows selected. 
+
+       SSN EXPENSE_NAME                   EXPENSE_D EXPENSE_AMOUNT EXPENSE_DESCRIPTION                                                                                                                                                                                     
+---------- ------------------------------ --------- -------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 222222224 food fee                       30-OCT-17             15 group lunch food fee                                                                                                                                                                                    
+ 222222224 food fee                       30-OCT-17             15 group lunch food fee                                                                                                                                                                                    
+ 222222224 food fee                       30-OCT-17             15 group lunch food fee                                                                                                                                                                                    
+ 222222224 food fee                       30-OCT-17             15 group lunch food fee                                                                                                                                                                                    
+ 222222224 food fee                       30-OCT-17             15 group lunch food fee                                                                                                                                                                                    
+ 222222224 food fee                       30-OCT-17             15 group lunch food fee                                                                                                                                                                                    
+ 222222223 food fee                       20-OCT-17             40 group lunch food fee                                                                                                                                                                                    
+ 222222223 food fee                       20-OCT-17             40 group lunch food fee                                                                                                                                                                                    
+ 222222223 food fee                       20-OCT-17             40 group lunch food fee                                                                                                                                                                                    
+ 222222223 food fee                       20-OCT-17             40 group lunch food fee                                                                                                                                                                                    
+ 222222223 food fee                       20-OCT-17             40 group lunch food fee                                                                                                                                                                                    
+ 222222223 food fee                       20-OCT-17             40 group lunch food fee                                                                                                                                                                                    
+ 222222222 food fee                       10-OCT-17             50 group lunch food fee                                                                                                                                                                                    
+ 222222222 food fee                       10-OCT-17             50 group lunch food fee                                                                                                                                                                                    
+ 222222222 food fee                       10-OCT-17             50 group lunch food fee                                                                                                                                                                                    
+ 222222222 food fee                       10-OCT-17             50 group lunch food fee                                                                                                                                                                                    
+ 222222222 food fee                       10-OCT-17             50 group lunch food fee                                                                                                                                                                                    
+ 222222222 food fee                       10-OCT-17             50 group lunch food fee                                                                                                                                                                                    
+
+18 rows selected. 
+
+       SSN VNAME                BIRTH_DAT RACE                 GENDER               PROFESSION                     MAILING_ADDRESS                                    EMAIL_ADDRESS                  HOME_CELL_PHONE      WORK_CELL_PHONE      EXISTENCE_ON_LIST    DATE_JOIN DATE_OF_T LOC_OF_TRAINING_COUR
+---------- -------------------- --------- -------------------- -------------------- ------------------------------ -------------------------------------------------- ------------------------------ -------------------- -------------------- -------------------- --------- --------- --------------------
+ 121212121 John                 12-DEC-85 American             male                 student                        111 Asp Ave, Norman                                john@ou.edu                    405-7878787          405-6767676          on list              11-JAN-17 01-MAY-17 Moore               
+ 121212123 Donald               12-FEB-86 American             male                 student                        1111 Asp Ave, Norman                               donald@ou.edu                  405-2878787          405-4767676          on list              11-JAN-17 01-MAY-16 Moore               
+ 121212124 Kegan                12-DEC-95 American             male                 student                        1112 Asp Ave, Norman                               kegan@ou.edu                   405-3878787          405-3767676          on list              10-JAN-17 01-MAY-16 Moore               
+ 121212125 Megan                01-DEC-65 American             female               professor                      1113 Asp Ave, Norman                               megan@ou.edu                   405-4878787          405-2767676          on list              01-JAN-07 01-MAY-05 OKC                 
+ 121212121 John                 12-DEC-85 American             male                 student                        111 Asp Ave, Norman                                john@ou.edu                    405-7878787          405-6767676          on list              11-JAN-17 01-MAY-17 Moore               
+ 121212123 Donald               12-FEB-86 American             male                 student                        1111 Asp Ave, Norman                               donald@ou.edu                  405-2878787          405-4767676          on list              11-JAN-17 01-MAY-16 Moore               
+ 121212124 Kegan                12-DEC-95 American             male                 student                        1112 Asp Ave, Norman                               kegan@ou.edu                   405-3878787          405-3767676          on list              10-JAN-17 01-MAY-16 Moore               
+ 121212125 Megan                01-DEC-65 American             female               professor                      1113 Asp Ave, Norman                               megan@ou.edu                   405-4878787          405-2767676          on list              01-JAN-07 01-MAY-05 OKC                 
+ 121212121 John                 12-DEC-85 American             male                 student                        111 Asp Ave, Norman                                john@ou.edu                    405-7878787          405-6767676          on list              11-JAN-17 01-MAY-17 Moore               
+ 121212123 Donald               12-FEB-86 American             male                 student                        1111 Asp Ave, Norman                               donald@ou.edu                  405-2878787          405-4767676          on list              11-JAN-17 01-MAY-16 Moore               
+ 121212124 Kegan                12-DEC-95 American             male                 student                        1112 Asp Ave, Norman                               kegan@ou.edu                   405-3878787          405-3767676          on list              10-JAN-17 01-MAY-16 Moore               
+ 121212125 Megan                01-DEC-65 American             female               professor                      1113 Asp Ave, Norman                               megan@ou.edu                   405-4878787          405-2767676          on list              01-JAN-07 01-MAY-05 OKC                 
+ 121212121 John                 12-DEC-85 American             male                 student                        111 Asp Ave, Norman                                john@ou.edu                    405-7878787          405-6767676          on list              11-JAN-17 01-MAY-17 Moore               
+ 121212123 Donald               12-FEB-86 American             male                 student                        1111 Asp Ave, Norman                               donald@ou.edu                  405-2878787          405-4767676          on list              11-JAN-17 01-MAY-16 Moore               
+ 121212124 Kegan                12-DEC-95 American             male                 student                        1112 Asp Ave, Norman                               kegan@ou.edu                   405-3878787          405-3767676          on list              10-JAN-17 01-MAY-16 Moore               
+ 121212125 Megan                01-DEC-65 American             female               professor                      1113 Asp Ave, Norman                               megan@ou.edu                   405-4878787          405-2767676          on list              01-JAN-07 01-MAY-05 OKC                 
+ 121212121 John                 12-DEC-85 American             male                 student                        111 Asp Ave, Norman                                john@ou.edu                    405-7878787          405-6767676          on list              11-JAN-17 01-MAY-17 Moore               
+ 121212123 Donald               12-FEB-86 American             male                 student                        1111 Asp Ave, Norman                               donald@ou.edu                  405-2878787          405-4767676          on list              11-JAN-17 01-MAY-16 Moore               
+ 121212124 Kegan                12-DEC-95 American             male                 student                        1112 Asp Ave, Norman                               kegan@ou.edu                   405-3878787          405-3767676          on list              10-JAN-17 01-MAY-16 Moore               
+ 121212125 Megan                01-DEC-65 American             female               professor                      1113 Asp Ave, Norman                               megan@ou.edu                   405-4878787          405-2767676          on list              01-JAN-07 01-MAY-05 OKC                 
+ 121212121 John                 12-DEC-85 American             male                 student                        111 Asp Ave, Norman                                john@ou.edu                    405-7878787          405-6767676          on list              11-JAN-17 01-MAY-17 Moore               
+ 121212123 Donald               12-FEB-86 American             male                 student                        1111 Asp Ave, Norman                               donald@ou.edu                  405-2878787          405-4767676          on list              11-JAN-17 01-MAY-16 Moore               
+ 121212124 Kegan                12-DEC-95 American             male                 student                        1112 Asp Ave, Norman                               kegan@ou.edu                   405-3878787          405-3767676          on list              10-JAN-17 01-MAY-16 Moore               
+ 121212125 Megan                01-DEC-65 American             female               professor                      1113 Asp Ave, Norman                               megan@ou.edu                   405-4878787          405-2767676          on list              01-JAN-07 01-MAY-05 OKC                 
+
+24 rows selected. 
+
+       SSN CNAME                BIRTH_DAT RACE                 GENDER               PROFESSION                     MAILING_ADDRESS                                    EMAIL_ADDRESS                                      HOME_CELL_PHONE      WORK_CELL_PHONE      EXISTENCE_ON_LIST    NAME_OF_DOCTOR       PHONE_OF_DOCTOR      NAME_OF_ATTORNEY     PHONE_OF_ATTORNEY    DATE_ASSI
+---------- -------------------- --------- -------------------- -------------------- ------------------------------ -------------------------------------------------- -------------------------------------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- ---------
+ 123456789 Jack                 01-JAN-80 European             male                 teacher                        101 Asp Ave, Norman                                jack@ou.edu                                        405-8888888          405-6666666          on list              Thomas               405-1234567          Kim                  918-1234567          01-JAN-17
+ 123456789 Jack                 01-JAN-80 European             male                 teacher                        101 Asp Ave, Norman                                jack@ou.edu                                        405-8888888          405-6666666          on list              Thomas               405-1234567          Kim                  918-1234567          01-JAN-17
+ 123456789 Jack                 01-JAN-80 European             male                 teacher                        101 Asp Ave, Norman                                jack@ou.edu                                        405-8888888          405-6666666          on list              Thomas               405-1234567          Kim                  918-1234567          01-JAN-17
+ 123456789 Jack                 01-JAN-80 European             male                 teacher                        101 Asp Ave, Norman                                jack@ou.edu                                        405-8888888          405-6666666          on list              Thomas               405-1234567          Kim                  918-1234567          01-JAN-17
+ 123456789 Jack                 01-JAN-80 European             male                 teacher                        101 Asp Ave, Norman                                jack@ou.edu                                        405-8888888          405-6666666          on list              Thomas               405-1234567          Kim                  918-1234567          01-JAN-17
+ 123456789 Jack                 01-JAN-80 European             male                 teacher                        101 Asp Ave, Norman                                jack@ou.edu                                        405-8888888          405-6666666          on list              Thomas               405-1234567          Kim                  918-1234567          01-JAN-17
+ 100000009 Vardhan              01-JAN-92 Indian               male                 student                        010 Asp Ave, Norman                                Vardhan@ou.edu                                     405-8866888          405-8866666          on list              Thema                405-1224567          Kimy                 918-2234567          01-FEB-17
+
+7 rows selected. 
+
+DNAME                DONATION_AMOUNT ANONYMOUS_WISH      
+-------------------- --------------- --------------------
+Lee                            30000 No                  
+Lee                            30000 No                  
+Lee                            30000 No                  
+Lee                            30000 No                  
+Lee                            30000 No                  
+Lee                            30000 No                  
+Zhang                          50000 Yes                 
+Zhang                          50000 Yes                 
+Zhang                          50000 Yes                 
+Zhang                          50000 Yes                 
+Zhang                          50000 Yes                 
+Zhang                          50000 Yes                 
+
+12 rows selected. 
+
+
+0 rows selected. 
+
+
+6 rows updated.
+
+
+1 row deleted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+4 rows inserted.
+
+
+4 rows inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+5 rows inserted.
+
+
+2 rows inserted.
+
+
+1 row inserted.
+
+
+4 rows inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+2 rows inserted.
+
+
+3 rows inserted.
+
+
+3 rows inserted.
+
+NAME_OF_DOCTOR       PHONE_OF_DOCTOR     
+-------------------- --------------------
+Thomas               405-1234567         
+
+1 row selected. 
+
+       SSN EXPENSE_NAME                   EXPENSE_D EXPENSE_AMOUNT EXPENSE_DESCRIPTION                                                                                                                                                                                     
+---------- ------------------------------ --------- -------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 222222224 food fee                       30-OCT-17             15 group lunch food fee                                                                                                                                                                                    
+ 222222223 food fee                       20-OCT-17             40 group lunch food fee                                                                                                                                                                                    
+ 222222222 food fee                       10-OCT-17             50 group lunch food fee                                                                                                                                                                                    
+
+3 rows selected. 
+
+       SSN VNAME                BIRTH_DAT RACE                 GENDER               PROFESSION                     MAILING_ADDRESS                                    EMAIL_ADDRESS                  HOME_CELL_PHONE      WORK_CELL_PHONE      EXISTENCE_ON_LIST    DATE_JOIN DATE_OF_T LOC_OF_TRAINING_COUR
+---------- -------------------- --------- -------------------- -------------------- ------------------------------ -------------------------------------------------- ------------------------------ -------------------- -------------------- -------------------- --------- --------- --------------------
+ 121212121 John                 12-DEC-85 American             male                 student                        111 Asp Ave, Norman                                john@ou.edu                    405-7878787          405-6767676          on list              11-JAN-17 01-MAY-17 Moore               
+ 121212123 Donald               12-FEB-86 American             male                 student                        1111 Asp Ave, Norman                               donald@ou.edu                  405-2878787          405-4767676          on list              11-JAN-17 01-MAY-16 Moore               
+ 121212124 Kegan                12-DEC-95 American             male                 student                        1112 Asp Ave, Norman                               kegan@ou.edu                   405-3878787          405-3767676          on list              10-JAN-17 01-MAY-16 Moore               
+ 121212125 Megan                01-DEC-65 American             female               professor                      1113 Asp Ave, Norman                               megan@ou.edu                   405-4878787          405-2767676          on list              01-JAN-07 01-MAY-05 OKC                 
+
+4 rows selected. 
+
+       SSN CNAME                BIRTH_DAT RACE                 GENDER               PROFESSION                     MAILING_ADDRESS                                    EMAIL_ADDRESS                                      HOME_CELL_PHONE      WORK_CELL_PHONE      EXISTENCE_ON_LIST    NAME_OF_DOCTOR       PHONE_OF_DOCTOR      NAME_OF_ATTORNEY     PHONE_OF_ATTORNEY    DATE_ASSI
+---------- -------------------- --------- -------------------- -------------------- ------------------------------ -------------------------------------------------- -------------------------------------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- ---------
+ 123456789 Jack                 01-JAN-80 European             male                 teacher                        101 Asp Ave, Norman                                jack@ou.edu                                        405-8888888          405-6666666          on list              Thomas               405-1234567          Kim                  918-1234567          01-JAN-17
+ 100000009 Vardhan              01-JAN-92 Indian               male                 student                        010 Asp Ave, Norman                                Vardhan@ou.edu                                     405-8866888          405-8866666          on list              Thema                405-1224567          Kimy                 918-2234567          01-FEB-17
+
+2 rows selected. 
+
+DNAME                DONATION_AMOUNT ANONYMOUS_WISH      
+-------------------- --------------- --------------------
+Lee                            30000 No                  
+Zhang                          50000 Yes                 
+
+2 rows selected. 
+
+
+0 rows selected. 
+
+
+1 row updated.
+
+
+1 row deleted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+4 rows inserted.
+
+
+4 rows inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+5 rows inserted.
+
+
+2 rows inserted.
+
+
+1 row inserted.
+
+
+4 rows inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+2 rows inserted.
+
+
+3 rows inserted.
+
+
+3 rows inserted.
+
