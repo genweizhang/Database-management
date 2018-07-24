@@ -1,0 +1,113 @@
+
+Table AUTHOR dropped.
+
+
+Table AUTHOR created.
+
+
+8 rows inserted.
+
+
+Table TRANSLATOR dropped.
+
+
+Table TRANSLATOR created.
+
+
+4 rows inserted.
+
+
+Table BOOK dropped.
+
+
+Table BOOK created.
+
+
+10 rows inserted.
+
+
+Table WRITTEN dropped.
+
+
+Table WRITTEN created.
+
+
+10 rows inserted.
+
+
+Table CUSTOMER dropped.
+
+
+Table CUSTOMER created.
+
+
+5 rows inserted.
+
+
+Table PURCHASED dropped.
+
+
+Table PURCHASED created.
+
+
+8 rows inserted.
+
+
+LEVEL_               CNAME               
+-------------------- --------------------
+Children             John                
+Adult                Wu                  
+
+
+CATEGORY             BTITLE              
+-------------------- --------------------
+Novel                War and Peace       
+
+
+ANAME               
+--------------------
+Cruz
+Derek
+Alice
+
+
+ANAME               
+--------------------
+Black
+
+
+CATEGORY            
+--------------------
+Children
+Business
+
+
+Error starting at line : 154 in command -
+select aid, aname
+from Author
+where aid in (select aid, btitle
+              from Written
+              group by aid
+              having count(aid)=2 and btitle in  (select category, btitle 
+                                                  from Book T, Book S
+                                                  where T.category=S.category))
+Error at Command Line : 156 Column : 15
+Error report -
+SQL Error: ORA-00913: too many values
+00913. 00000 -  "too many values"
+*Cause:    
+*Action:
+
+CATEGORY             AVG(EDITION)
+-------------------- ------------
+Phycology                       3
+Children                        7
+Business                     9.75
+Novel                          15
+
+
+1 row updated.
+
+
+2 rows deleted.
+
